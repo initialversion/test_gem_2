@@ -1,3 +1,4 @@
+gem "wdm" if Gem.win_platform?
 source 'https://rubygems.org'
 
 
